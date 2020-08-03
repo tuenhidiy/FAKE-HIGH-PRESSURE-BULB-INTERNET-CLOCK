@@ -1,6 +1,6 @@
 /*----------------------------------------------------------------------
  * ESP8266 NODEMCU NTP BINARY INTERNET CLOCK WITH 
- * NEOPIXEL STICKS AND HIGH PRESSURE BULB BY TUENHIDIY.
+ * NEOPIXEL STICKS AND FAKE HIGH PRESSURE BULB BY TUENHIDIY.
 ----------------------------------------------------------------------*/
 #include <Adafruit_NeoPixel.h>
 #include <NTPClient.h>
